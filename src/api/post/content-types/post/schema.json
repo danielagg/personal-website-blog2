@@ -23,6 +23,11 @@
     "summary": {
       "type": "text",
       "required": true
+    },
+    "is_apium_article": {
+      "type": "boolean",
+      "default": false,
+      "required": true
     }
   }
 }
