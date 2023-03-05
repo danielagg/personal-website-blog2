@@ -28,6 +28,9 @@
       "type": "boolean",
       "default": false,
       "required": true
+    },
+    "originally_published_on": {
+      "type": "date"
     }
   }
 }
